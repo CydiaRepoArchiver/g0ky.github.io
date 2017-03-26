@@ -1,2 +1,2 @@
 # g0ky.github.io
-cydia
+Add Cydia Repo
