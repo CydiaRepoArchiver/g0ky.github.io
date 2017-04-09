@@ -8,7 +8,7 @@ function iOSversion() {
 	}
 }
 ver = iOSversion();
-if (ver[0] >= 8) {
+if (ver[0] >= 7) {
 	document.getElementById('version').innerHTML='<p><strong>✓</strong> Your device is supported 😁</p>';
 }
 else {
