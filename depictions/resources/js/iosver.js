@@ -12,5 +12,5 @@ if (ver[0] >= 8) {
 	document.getElementById('version').innerHTML='<p strong style="color:#01DF01";><strong>✓</strong> <strong>Your device is supported 😁</strong></p>';
 }
 else {
-	document.getElementById('version').innerHTML='<p strong style="color:#FF0000";><strong>x</strong> <strong>Your device is not supported😭</strong></p>';
+	document.getElementById('version').innerHTML='<p strong style="color:#FF0000";><strong>X</strong> <strong>Your device is not supported😭</strong></p>';
 }
