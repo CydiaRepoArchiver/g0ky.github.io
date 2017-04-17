@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="215.9mm" height="279.4mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21590 27940"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil0 {fill:url(#id0);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="10922.9" y1="6678.36" x2="10667.1" y2="21261.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D99B6E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#663828"/>
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_462355128">
+   <path class="fil0" d="M16385 6656l-1198 0 -8763 0 -1198 0c-1030,252 -1791,1137 -1791,2191l0 10293c0,997 681,1842 1626,2144l1528 0 8580 0 1528 0c666,-213 1201,-695 1458,-1311l0 -1666 0 -9164 0 -592c-127,-920 -838,-1667 -1770,-1895z"/>
+   <polygon class="fil1" points="10139,11553 10986,12086 12101,11553 11120,11124 "/>
+   <polygon class="fil1" points="10831,11023 8037,12172 8342,12819 8348,12375 9523,11886 9853,12134 9878,11505 "/>
+   <polygon class="fil1" points="10037,11708 10037,12261 10920,12775 10920,12197 "/>
+   <polygon class="fil1" points="11091,12197 11091,12731 12215,12134 12215,11645 "/>
+   <polygon class="fil1" points="12431,11467 12431,11921 13567,12623 13567,12908 14145,12356 "/>
+   <polygon class="fil1" points="9510,12086 10780,12908 9694,13378 8494,12489 "/>
+   <polygon class="fil1" points="11180,12845 12101,13245 13244,12731 12431,12188 "/>
+   <polygon class="fil1" points="10869,13004 9713,13512 9713,13912 10869,13458 "/>
+   <polygon class="fil1" points="8494,12716 9580,13458 9580,13867 8494,12934 "/>
+   <polygon class="fil1" points="7447,13658 8234,12959 10101,14559 9037,14959 "/>
+   <polygon class="fil1" points="8494,14743 8983,15143 10380,14699 10380,17150 8494,15797 "/>
+   <polygon class="fil1" points="10634,14591 11256,15594 13770,14502 13567,13458 "/>
+   <polygon class="fil1" points="10634,15181 10634,17181 13459,15981 13434,14889 11091,15867 "/>
+   <polygon class="fil1" points="11802,13912 10450,14526 9809,14038 11028,13569 "/>
+   <polygon class="fil1" points="11104,13458 12024,13867 12024,13378 11120,13004 "/>
+   <polygon class="fil1" points="12202,13378 12202,13835 13364,13346 13364,12732 "/>
+   <path class="fil1" d="M10748 8622c-2921,0 -5289,2368 -5289,5290 0,2921 2368,5289 5289,5289 2921,0 5289,-2368 5289,-5289 0,-2922 -2368,-5290 -5289,-5290zm0 9751l0 0c-2464,0 -4461,-1998 -4461,-4461 0,-2464 1997,-4461 4461,-4461 2464,0 4461,1997 4461,4461 0,2463 -1997,4461 -4461,4461z"/>
+  </g>
+ </g>
+</svg>
