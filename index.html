@@ -110,15 +110,6 @@
 				</a>
 
 			</fieldset>
-
-			<fieldset>
-                <a href="vendor/login.html">
-				<img class="icon" src="icon/default/cloud-computing-2.png" />
-				<div><div>
-                        		<label><p>Submit a tweak</p></label>
-                    		</div></div>
-                </a>
-                </fieldset>
 			
 			<label class="source">
 				<p>Source Info</p>
