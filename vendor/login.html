@@ -1,0 +1,53 @@
+<form name="frmContacto" method="post" action="sendbymail.php">
+<table width="500px">
+Enviar archivo comprimido en .zip</br>que incluya screenshot
+</br>
+<tr>
+<td>
+<label for="first_name">Nombre del paquete: *</label>
+</td>
+<td>
+<input type="text" name="first_name" maxlength="50" size="25">
+</td>
+</tr>
+<tr>
+<td valign="top"">
+<label for="autor_name">Autor: *</label>
+</td>
+<td>
+<input type="text" name="autor_name" maxlength="50" size="25">
+</td>
+</tr>
+<tr>
+<td valign="top"">
+<label for="last_name">Version: *</label>
+</td>
+<td>
+<input type="text" name="last_name" maxlength="50" size="25">
+</td>
+</tr>
+<tr>
+<td>
+<label for="email">Correo Electronico: *</label>
+</td>
+<td>
+<input type="text" name="email" maxlength="80" size="35">
+</td>
+</tr>
+<input type="hidden" name="MAX_FILE_SIZE" value="1000000">
+<input name="adjuntar" type="file" id="adjuntar" size="12"> 
+<tr>
+<td>
+<label for="comments">Descrpcion y dependencias: *</label>
+</td>
+<td>
+<textarea name="comments" maxlength="500" cols="30" rows="5"></textarea>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">
+<input type="submit" value="Enviar">
+</td>
+</tr>
+</table>
+</form>
