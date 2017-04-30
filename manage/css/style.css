@@ -1614,6 +1614,7 @@ table.dataTable thead .sorting:after {
 }
 .animation-text-box p {
   font-size: 12px;
+  background: #ffffff;
   text-transform: uppercase;
 }
 /* PEACE */
